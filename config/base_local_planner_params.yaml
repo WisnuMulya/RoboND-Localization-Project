@@ -1,0 +1,10 @@
+TrajectoryPlannerROS:
+
+  holonomic_robot: false
+  max_vel_x: 1.0
+  yaw_goal_tolerance: 0.03
+  xy_goal_tolerance: 0.03
+  sim_time: 4.0
+  meter_scoring: true
+  pdist_scale: 2.0
+  
