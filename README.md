@@ -1,8 +1,9 @@
 # Udacity Robotics Software Nanodegree - Localization Project
-[//]: # [Image References]
+[//]: # (Image References)
 
-[custom-bot-wireframe]: ./img/custom-bot-wireframe
+[custom-bot-wireframe]: ./img/custom-bot-wireframe.png
 
-![Custom-bot Wireframe Model][custom-bot-wireframe]
-
+## Quickstart
 Please see the `writeup.pdf` for accessing the paper based on this project.
+
+![Custom-bot Wireframe Image][custom-bot-wireframe]
